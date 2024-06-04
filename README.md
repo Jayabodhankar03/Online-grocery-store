@@ -38,23 +38,6 @@ PHP is open source software.
 
 MySQL: MySql is a database, widely used foraccessing querying, updating, and managing datain databases.
 Software Requirement(any one)
-WAMP Server
-XAMPP Server
-MAMP Server
-LAMP Server
-Installation Steps
-Download zip file and Unzip file on your local server.
-Put this file inside “c:/wamp/www/” .
-Database Configuration:
-Open phpmyadmin
-Create Database named “shop”.
-Import database shop.sql.
-Open Your browser put inside URL:
-“http://localhost/store/”
-To Login as admin put inside URL:”http://localhost/store”
-user login details:
-Login Id: yugeshverma@gmail.com
-Password:123456
+WAMP Server/XAMPP Server
+MAMP Server/LAMP Server
 
-
-visit- https://projkectworlds.in
