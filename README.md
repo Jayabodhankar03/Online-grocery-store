@@ -38,6 +38,8 @@ PHP is open source software.
 
 MySQL: MySql is a database, widely used foraccessing querying, updating, and managing datain databases.
 Software Requirement(any one)
-WAMP Server/XAMPP Server
-MAMP Server/LAMP Server
+WAMP Server
+XAMPP Server
+MAMP Server
+LAMP Server
 
